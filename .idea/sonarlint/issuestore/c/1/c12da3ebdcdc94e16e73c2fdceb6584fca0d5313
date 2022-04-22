@@ -1,0 +1,16 @@
+
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(¿ÜŒ¶úÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Åùëÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ŒŒ‘ûÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(ô˜¤Äşÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(Åùëÿÿÿÿÿ
+M	java:S106o"9Replace this use of System.out or System.err by a logger.(áôş
+F
+java:S1481|"+Remove this unused "nextID" local variable.(Àù™Ûøÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(Åùëÿÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(¯¤åüÿÿÿÿ
+~
+java:S1192:"cDefine a constant instead of duplicating this literal "ERRO AO ABRIR CONEXAO COM DBJPDV: " 3 times.(Åùëÿÿÿÿÿ
+E
+java:S1121„".Extract the assignment out of this expression.(ëğŸ–
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÅîK

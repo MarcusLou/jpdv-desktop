@@ -1,0 +1,11 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "presenter".(Îœÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö¬
+K
+java:S2209"5Change this instance-reference to a static reference.(›¥¼™
+J
+java:S2440"4Remove this instantiation of "CreateDatabaseSQLite".(›¥¼™
+I
+java:S1481".Remove this unused "presenter" local variable.(Îœÿÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Ú° øÿÿÿÿ

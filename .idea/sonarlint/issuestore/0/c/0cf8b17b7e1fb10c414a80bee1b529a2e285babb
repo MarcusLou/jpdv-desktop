@@ -1,0 +1,6 @@
+
+p
+java:S1450"ZRemove the "panelDialog" field and declare it as a local variable in the relevant methods.(ç¬üò
+^
+java:S1192'"HDefine a constant instead of duplicating this literal "Verdana" 5 times.(Æ´¼©
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ê¹Óþÿÿÿÿ

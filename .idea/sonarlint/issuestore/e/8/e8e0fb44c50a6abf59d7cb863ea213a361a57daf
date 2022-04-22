@@ -1,0 +1,10 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(®ößíşÿÿÿÿ
+9
+java:S2885."#Make "DFDATE" an instance variable.(¤Éöò
+<
+java:S28853"&Make "DFDATE_BR" an instance variable.(áıÎ–
+>
+java:S28858"#Make "DFTIME" an instance variable.(›Ó—Øûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ“íüÿÿÿÿ

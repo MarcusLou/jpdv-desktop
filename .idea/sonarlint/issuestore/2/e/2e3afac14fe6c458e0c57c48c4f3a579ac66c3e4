@@ -1,0 +1,64 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎöÔÖùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(š¾½ğûÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ê¨”»
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ÿÆí‹
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(í’³¼ûÿÿÿÿ
+M	java:S106z"9Replace this use of System.out or System.err by a logger.(ëõ9
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(Åùëÿÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ØÔÆ¥ùÿÿÿÿ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(Œ¯èÂ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(¢Èøúıÿÿÿÿ
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(«ƒë¯
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(Ã»•¯ùÿÿÿÿ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(¥´ÉÅşÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(šÉšÙûÿÿÿÿ
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(‹éÆÄ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(´¦æ—ûÿÿÿÿ
+O	java:S106ï"9Replace this use of System.out or System.err by a logger.(íŞ­’
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(æ—Ğùÿÿÿÿ
+T	java:S106ô"9Replace this use of System.out or System.err by a logger.(¦Àìàùÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(Àâ©ı
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(Åùëÿÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ØÔÆ¥ùÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(ï±¸éøÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(Ú»¯ÿÿÿÿÿ
+O	java:S106À"9Replace this use of System.out or System.err by a logger.(—îúª
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(¦‚ôÿ
+O	java:S106É"9Replace this use of System.out or System.err by a logger.( ïà
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¥´ÉÅşÿÿÿÿ
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(šÉšÙûÿÿÿÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(òîªœúÿÿÿÿ
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(Åùëÿÿÿÿÿ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(ØÔÆ¥ùÿÿÿÿ
+O	java:S106ù"9Replace this use of System.out or System.err by a logger.(ß€‡˜
+T	java:S106û"9Replace this use of System.out or System.err by a logger.(¥´ÉÅşÿÿÿÿ
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(šÉšÙûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¯Ô”Âùÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(æ—Ğùÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(¦Àìàùÿÿÿÿ
+~
+java:S1192|"cDefine a constant instead of duplicating this literal "ERRO AO ABRIR CONEXAO COM DBJPDV: " 3 times.(Åùëÿÿÿÿÿ
+v
+java:S1192½"ZDefine a constant instead of duplicating this literal "ERRO COM ARQUIVO PARAME: " 3 times.(šÉšÙûÿÿÿÿ
+u
+java:S1192~"ZDefine a constant instead of duplicating this literal "ERRO COM ARQUIVO DBJPDV: " 3 times.(ØÔÆ¥ùÿÿÿÿ
+
+java:S1192»"cDefine a constant instead of duplicating this literal "ERRO AO ABRIR CONEXAO COM PARAME: " 3 times.(¥´ÉÅşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†àıÒıÿÿÿÿ
+^
+java:S2095ƒ"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×
+^
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×
+^
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×
+^
+java:S2095Ì"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×
+]
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(á‚y
+]
+java:S2095÷"GUse try-with-resources or close this "Statement" in a "finally" clause.(á‚y
+]
+java:S2095Ş"GUse try-with-resources or close this "Statement" in a "finally" clause.(á‚y
+]
+java:S2095A"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×
