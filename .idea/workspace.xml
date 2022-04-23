@@ -13,15 +13,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c472712-a015-46df-908a-dcecff645212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_37_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbjpdv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financ.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parame.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_37_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/towel_v1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/towel_v1_2_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/jPDV_jar/jPDV.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbjpdv.db" beforeDir="false" afterPath="$PROJECT_DIR$/dbjpdv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financ.db" beforeDir="false" afterPath="$PROJECT_DIR$/financ.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parame.db" beforeDir="false" afterPath="$PROJECT_DIR$/parame.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/backgrounds/bg_admin_options.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/backgrounds/bg_dialog.png" beforeDir="false" />
@@ -434,7 +428,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/jpdv_desktop$jPDV.ic" NAME="jPDV Coverage Results" MODIFIED="1650671491939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/jpdv_desktop$jPDV.ic" NAME="jPDV Coverage Results" MODIFIED="1650674870580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>br.com.ernanilima.jpdv.*</FILTER>
     </SUITE>
   </component>
