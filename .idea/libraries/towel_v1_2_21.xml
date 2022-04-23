@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="towel-v1.2.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/towel-v1.2.2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
