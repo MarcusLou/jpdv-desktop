@@ -1,0 +1,15 @@
+
+„
+AYBNxZfoqJHqHJEaIWfW	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Ú° øÿÿÿÿ8ÀÛÊŠî,
+_
+java:S1854"=Remove this useless assignment to local variable "presenter".(Îœÿÿÿÿÿ8ûîŠæ…0
+k
+AYBNxZfoqJHqHJEaIWfX	java:S106"9Replace this use of System.out or System.err by a logger.(ö¬8˜õ¯¬ğ,
+h
+AYBNxZfoqJHqHJEaIWfY
+java:S2209"5Change this instance-reference to a static reference.(›¥¼™8ÀÛÊŠî,
+Q
+java:S2440"4Remove this instantiation of "CreateDatabaseSQLite".(›¥¼™8ûîŠæ…0
+f
+AYBNxZfoqJHqHJEaIWfZ
+java:S1481".Remove this unused "presenter" local variable.(Îœÿÿÿÿÿ8ÀÛÊŠî,
