@@ -1,12 +1,0 @@
-
-P
-java:S1118":Add a private constructor to hide the implicit public one.(΅Ν°‘
-@
-java:S5869W"*Remove duplicates in this character class.(‘――ª
-–
-java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§•Τ/
-/
-java:S2178{"Correct this "&" to "&&".(ÿΪ½Δ
-A
-java:S5869ƒ"*Remove duplicates in this character class.(ζ±ι
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ζ“νόÿÿÿÿ

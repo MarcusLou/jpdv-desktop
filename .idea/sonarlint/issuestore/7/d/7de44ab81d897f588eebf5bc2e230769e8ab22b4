@@ -1,6 +1,0 @@
-
-S	java:S1067"9Replace this use of System.out or System.err by a logger.(â’¡¡ûÿÿÿÿ
-<	java:S1318""Add a default case to this switch.(Ýï¾¬ùÿÿÿÿ
-f
-java:S13018"KReplace this "switch" statement by "if" statements to increase readability.(Ýï¾¬ùÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é‘ÝÑýÿÿÿÿ

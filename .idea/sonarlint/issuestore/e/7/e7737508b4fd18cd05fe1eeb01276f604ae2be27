@@ -1,246 +1,0 @@
-
-o
-java:S1450Ã
-"SRemove the "btn0" field and declare it as a local variable in the relevant methods.(Åœú©üÿÿÿÿ
-p
-java:S1450Ä
-"TRemove the "btn00" field and declare it as a local variable in the relevant methods.(¿úØ±şÿÿÿÿ
-j
-java:S1450Å
-"SRemove the "btn1" field and declare it as a local variable in the relevant methods.(®¢¡¥
-o
-java:S1450Æ
-"SRemove the "btn2" field and declare it as a local variable in the relevant methods.(·éÛùÿÿÿÿ
-i
-java:S1450Ç
-"SRemove the "btn3" field and declare it as a local variable in the relevant methods.(àÆ”e
-o
-java:S1450È
-"SRemove the "btn4" field and declare it as a local variable in the relevant methods.(·ôõúÿÿÿÿ
-o
-java:S1450É
-"SRemove the "btn5" field and declare it as a local variable in the relevant methods.(òÚ¦Ãÿÿÿÿÿ
-o
-java:S1450Ê
-"SRemove the "btn6" field and declare it as a local variable in the relevant methods.(„ÅË‡ıÿÿÿÿ
-j
-java:S1450Ë
-"SRemove the "btn7" field and declare it as a local variable in the relevant methods.(ßÖÏ•
-i
-java:S1450Ì
-"SRemove the "btn8" field and declare it as a local variable in the relevant methods.(ÿÉäz
-i
-java:S1450Í
-"SRemove the "btn9" field and declare it as a local variable in the relevant methods.(Í÷ÑH
-p
-java:S1450Î
-"YRemove the "btnAtalho1" field and declare it as a local variable in the relevant methods.(€¿µÀ
-q
-java:S1450Ï
-"ZRemove the "btnAtalho10" field and declare it as a local variable in the relevant methods.(£Ï
-u
-java:S1450Ğ
-"YRemove the "btnAtalho2" field and declare it as a local variable in the relevant methods.(÷âˆ¨øÿÿÿÿ
-u
-java:S1450Ñ
-"YRemove the "btnAtalho3" field and declare it as a local variable in the relevant methods.(’Á“Ûûÿÿÿÿ
-p
-java:S1450Ò
-"YRemove the "btnAtalho4" field and declare it as a local variable in the relevant methods.(‰õÂ¾
-u
-java:S1450Ó
-"YRemove the "btnAtalho5" field and declare it as a local variable in the relevant methods.(­Óüœüÿÿÿÿ
-u
-java:S1450Ô
-"YRemove the "btnAtalho6" field and declare it as a local variable in the relevant methods.(ã€§áüÿÿÿÿ
-u
-java:S1450Õ
-"YRemove the "btnAtalho7" field and declare it as a local variable in the relevant methods.(¡¹íëüÿÿÿÿ
-u
-java:S1450Ö
-"YRemove the "btnAtalho8" field and declare it as a local variable in the relevant methods.(—õà©ûÿÿÿÿ
-o
-java:S1450×
-"YRemove the "btnAtalho9" field and declare it as a local variable in the relevant methods.(Å’ôd
-r
-java:S1450Ø
-"[Remove the "btnBackspace" field and declare it as a local variable in the relevant methods.(í ’ó
-v
-java:S1450Ú
-"_Remove the "btnEnterNumerico" field and declare it as a local variable in the relevant methods.(€†„
-w
-java:S1450Û
-"`Remove the "btnFPagCartaoCred" field and declare it as a local variable in the relevant methods.(Õ¬õœ
-{
-java:S1450Ü
-"_Remove the "btnFPagCartaoDeb" field and declare it as a local variable in the relevant methods.(Ö¼¥ûÿÿÿÿ
-u
-java:S1450İ
-"^Remove the "btnFPagDinheiro" field and declare it as a local variable in the relevant methods.(ÏÊ¢ƒ
-x
-java:S1450á
-"\Remove the "btnQuantidade" field and declare it as a local variable in the relevant methods.(ô™™üÿÿÿÿ
-r
-java:S1450ã
-"[Remove the "btnTotalizar" field and declare it as a local variable in the relevant methods.(›ÀúØ
-p
-java:S1450ä
-"YRemove the "btnVirgula" field and declare it as a local variable in the relevant methods.(›¡Ë´
-
-java:S1450ú
-"eRemove the "campoTituloOpcoesAdmin" field and declare it as a local variable in the relevant methods.(’¦ôÏûÿÿÿÿ
-r
-java:S1450"VRemove the "imgLogo" field and declare it as a local variable in the relevant methods.(«£¯×ıÿÿÿÿ
-z
-java:S1450"^Remove the "jLabelCodBarras" field and declare it as a local variable in the relevant methods.(êığ­şÿÿÿÿ
-v
-java:S1450‘"ZRemove the "jLabelCupom" field and declare it as a local variable in the relevant methods.( ù´ûÿÿÿÿ
-p
-java:S1450’"YRemove the "jLabelData" field and declare it as a local variable in the relevant methods.(…²Öœ
-|
-java:S1450“"`Remove the "jLabelDescontoPer" field and declare it as a local variable in the relevant methods.(˜ãöºûÿÿÿÿ
-{
-java:S1450”"_Remove the "jLabelDescontoRS" field and declare it as a local variable in the relevant methods.(İÚşõûÿÿÿÿ
-w
-java:S1450•"[Remove the "jLabelFilial" field and declare it as a local variable in the relevant methods.(´¬Öûÿÿÿÿ
-u
-java:S1450–"YRemove the "jLabelHora" field and declare it as a local variable in the relevant methods.(ê§åùÿÿÿÿ
-t
-java:S1450—"]Remove the "jLabelOperador" field and declare it as a local variable in the relevant methods.(£ÀÙ½
-o
-java:S1450˜"XRemove the "jLabelPDV" field and declare it as a local variable in the relevant methods.(É®£ƒ
-x
-java:S1450™"aRemove the "jLabelPrecoProduto" field and declare it as a local variable in the relevant methods.(ÍØ°
-t
-java:S1450š"XRemove the "jLabelQtd" field and declare it as a local variable in the relevant methods.(ğ†Û‘ûÿÿÿÿ
-o
-java:S1450ƒ"XRemove the "jLabelRS1" field and declare it as a local variable in the relevant methods.(–ÚÛı
-u
-java:S1450Œ"YRemove the "jLabelRS10" field and declare it as a local variable in the relevant methods.(ù×û˜ıÿÿÿÿ
-u
-java:S1450"YRemove the "jLabelRS11" field and declare it as a local variable in the relevant methods.(ä˜¢øÿÿÿÿ
-o
-java:S1450„"XRemove the "jLabelRS2" field and declare it as a local variable in the relevant methods.(¾­±
-t
-java:S1450…"XRemove the "jLabelRS3" field and declare it as a local variable in the relevant methods.(‰¬´Ÿÿÿÿÿÿ
-o
-java:S1450†"XRemove the "jLabelRS4" field and declare it as a local variable in the relevant methods.(ÉÆ”â
-t
-java:S1450‡"XRemove the "jLabelRS5" field and declare it as a local variable in the relevant methods.(¦¨ÓÌùÿÿÿÿ
-o
-java:S1450ˆ"XRemove the "jLabelRS6" field and declare it as a local variable in the relevant methods.(Ô¡¤‡
-o
-java:S1450‰"XRemove the "jLabelRS7" field and declare it as a local variable in the relevant methods.(£‹ú÷
-o
-java:S1450Š"XRemove the "jLabelRS8" field and declare it as a local variable in the relevant methods.(æŞŠó
-o
-java:S1450‹"XRemove the "jLabelRS9" field and declare it as a local variable in the relevant methods.(¯¦é˜
-€
-java:S1450›"dRemove the "jLabelSubTotalProduto" field and declare it as a local variable in the relevant methods.(ï†™®ÿÿÿÿÿ
-
-java:S1450œ"eRemove the "jLabelValTotalAReceber" field and declare it as a local variable in the relevant methods.(Ÿîıäşÿÿÿÿ
-†
-java:S1450ó
-"jRemove the "jLabelValTotalAReceberTroco" field and declare it as a local variable in the relevant methods.(×™óèüÿÿÿÿ
-x
-java:S1450"bRemove the "jLabelValTotalCupom" field and declare it as a local variable in the relevant methods.(ÆÌW
-|
-java:S1450Ÿ"eRemove the "jLabelValTotalProdutos" field and declare it as a local variable in the relevant methods.(ñÍ¡‰
-
-java:S1450 "eRemove the "jLabelValTotalRecebido" field and declare it as a local variable in the relevant methods.(ê‰æıÿÿÿÿ
-†
-java:S1450ô
-"jRemove the "jLabelValTotalRecebidoTroco" field and declare it as a local variable in the relevant methods.(„æ“ßøÿÿÿÿ
-t
-java:S1450õ
-"]Remove the "jLabelValTroco" field and declare it as a local variable in the relevant methods.(˜¶±
-w
-java:S1450¡"[Remove the "jLabelVersao" field and declare it as a local variable in the relevant methods.(³âÉ¤üÿÿÿÿ
-‚
-java:S1450¢"fRemove the "jPanelCabecalhoItensPDV" field and declare it as a local variable in the relevant methods.(Şê‘‹øÿÿÿÿ
-s
-java:S1450£"]Remove the "jPanelItensPDV" field and declare it as a local variable in the relevant methods.(Ğ€ø
-v
-java:S1450¤"ZRemove the "jPanelLogin" field and declare it as a local variable in the relevant methods.(•àæÇùÿÿÿÿ
-„
-java:S1450¥"hRemove the "jScrollPaneBuscarProdutos" field and declare it as a local variable in the relevant methods.(¹†êãøÿÿÿÿ
-€
-java:S1450¦"dRemove the "jScrollPaneFPagamento" field and declare it as a local variable in the relevant methods.(÷Š£ıÿÿÿÿ
-†
-java:S1450¨"jRemove the "jScrollPaneItensVendidosPDV" field and declare it as a local variable in the relevant methods.(ôí¦ìşÿÿÿÿ
-|
-java:S1450©"`Remove the "jScrollPaneOpcoes" field and declare it as a local variable in the relevant methods.(‘œí¹øÿÿÿÿ
-}
-java:S1450ª"fRemove the "jScrollPaneRecebimentos" field and declare it as a local variable in the relevant methods.(‹ •Ù
-v
-java:S1450«"ZRemove the "jSeparator1" field and declare it as a local variable in the relevant methods.(‚£Éşÿÿÿÿ
-v
-java:S1450¬"ZRemove the "jSeparator2" field and declare it as a local variable in the relevant methods.(úãêãıÿÿÿÿ
-v
-java:S1450­"ZRemove the "jSeparator3" field and declare it as a local variable in the relevant methods.(†¼áŞùÿÿÿÿ
-u
-java:S1450®"^Remove the "labelSenhaLogin" field and declare it as a local variable in the relevant methods.(ŞƒŒÀ
-w
-java:S1450¯"`Remove the "labelUsuarioLogin" field and declare it as a local variable in the relevant methods.(¿±‹«
-{
-java:S1450²"dRemove the "painelBotonsNumericos" field and declare it as a local variable in the relevant methods.(ÛÉ æ
-}
-java:S1450³"fRemove the "painelBtnBuscarProdutos" field and declare it as a local variable in the relevant methods.(³ŒÀ
-y
-java:S1450´"]Remove the "painelBtnTouch" field and declare it as a local variable in the relevant methods.(Ô’­½úÿÿÿÿ
-~
-java:S1450µ"bRemove the "painelBuscarProduto" field and declare it as a local variable in the relevant methods.(Œà‰èüÿÿÿÿ
-}
-java:S1450¶"aRemove the "painelCabecalhoPDV" field and declare it as a local variable in the relevant methods.(ÅÀ¤Ïıÿÿÿÿ
-y
-java:S1450»"]Remove the "painelDesconto" field and declare it as a local variable in the relevant methods.(”ª€‚şÿÿÿÿ
-€
-java:S1450¼"dRemove the "painelFormasPagamento" field and declare it as a local variable in the relevant methods.(Ÿ¤ÀÔûÿÿÿÿ
-x
-java:S1450½"aRemove the "painelInserirItens" field and declare it as a local variable in the relevant methods.(¡¾Ë¾
-~
-java:S1450¾"bRemove the "painelItensVendidos" field and declare it as a local variable in the relevant methods.(æ…Ğ»ùÿÿÿÿ
-p
-java:S1450À"YRemove the "painelLogo" field and declare it as a local variable in the relevant methods.(®ö˜ò
-w
-java:S1450Á"[Remove the "painelOpcoes" field and declare it as a local variable in the relevant methods.(ˆ†óûÿÿÿÿ
-o
-java:S1450Â"XRemove the "painelPDV" field and declare it as a local variable in the relevant methods.(Š“€
-u
-java:S1450Ã"^Remove the "painelRodapePDV" field and declare it as a local variable in the relevant methods.(ª½
-‚
-java:S1450Ä"fRemove the "painelTituloOpcoesAdmin" field and declare it as a local variable in the relevant methods.(»Ë‡ùÿÿÿÿ
-w
-java:S1450È"[Remove the "painelVendas" field and declare it as a local variable in the relevant methods.(‘Çïüÿÿÿÿ
-X
-java:S3252Ç"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¨¤Òï
-\
-java:S3252±"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(³¾îÿÿÿÿÿ
-W
-java:S3252¿"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(‡×Ôñ
-\
-java:S3252Ï"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(âß·øÿÿÿÿ
-W
-java:S3252ß"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(ÉÙÖğ
-\
-java:S3252"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(»ƒÁĞıÿÿÿÿ
-\
-java:S3252°"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(ÈÕÑûÿÿÿÿ
-\
-java:S3252Á"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(‚¾¨öùÿÿÿÿ
-W
-java:S3252Ï"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(üâ“×
-W
-java:S3252Á"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(¹şŞ¡
-W
-java:S3252É"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(Â×µÖ
-\
-java:S3252´"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(¹¦©°şÿÿÿÿ
-W
-java:S3252Ã"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(¹†…¢
-\
-java:S3252Ò"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(“¤íùÿÿÿÿ
-e
-java:S1192°"IDefine a constant instead of duplicating this literal "Verdana" 92 times.(ÂºÄéÿÿÿÿÿ
-g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¬ƒ¡
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ê¹Óşÿÿÿÿ

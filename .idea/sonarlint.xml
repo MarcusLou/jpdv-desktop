@@ -3,6 +3,6 @@
   <component name="SonarLintProjectSettings">
     <option name="bindingEnabled" value="true" />
     <option name="projectKey" value="jpdv-desktop" />
-    <option name="serverId" value="sonar" />
+    <option name="serverId" value="jpdv-desktop" />
   </component>
 </project>
